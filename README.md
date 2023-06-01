@@ -1,6 +1,18 @@
 # 💫 About Me:
 Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi enfoque principal está en el backend, y tengo un sólido conocimiento en PHP y JavaScript. Me encanta utilizar estas tecnologías para crear soluciones eficientes y escalables. Además, actualmente estoy dedicando tiempo y esfuerzo en aprender Laravel, un popular framework de PHP para el desarrollo web. Estoy emocionado por ampliar mis habilidades y aprovechar al máximo las capacidades de Laravel en mis proyectos. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de mejorar y expandir mis conocimientos. Estoy listo para enfrentar desafíos y colaborar en equipos de desarrollo para crear aplicaciones web innovadoras.<br><br><br><br><br>
 
+## Index
+<details>
+  <summary>Proyectos en php</summary>
+  <ul>
+    <li>[![NoteApp]()]</li>
+  </ul>
+</details>
+
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/webdeveloperfullstack-isaachernandez) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/isaccweb_dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itter.com/BigBitDev) 
