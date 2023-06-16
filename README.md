@@ -20,7 +20,7 @@ Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi en
 
 
 ## 💫 Index de mis proyectos
-- Index : [Index](https://isaccwebdev.github.io/index.github.io/)
+[Index ](https://isaccwebdev.github.io/index.github.io/)
 
 
 # 💻 Tech Stack:
