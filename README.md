@@ -15,7 +15,7 @@
 # 👩‍💻 Acerca de mi:
 Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi enfoque principal está en ser un todo terreno, y tengo un sólido conocimiento en PHP y JavaScript. Me encanta utilizar estas tecnologías para crear soluciones eficientes y escalables. Además, actualmente estoy dedicando tiempo y esfuerzo en aprender Laravel, un popular framework de PHP para el desarrollo web. Estoy emocionado por ampliar mis habilidades y aprovechar al máximo las capacidades de Laravel en mis proyectos. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de mejorar y expandir mis conocimientos. Estoy listo para enfrentar desafíos y colaborar en equipos de desarrollo para crear aplicaciones web innovadoras.<br><br>
 
-- 📝 Mira mi blog aqui : [Hasnode](https://hashnode.com/@isaccdevblog.hashnode.dev)
+- 📝 Mira mi blog aqui : [Hasnode](https://isaccdevblog.hashnode.dev/)
 
 
 
