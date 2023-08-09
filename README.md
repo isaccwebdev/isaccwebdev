@@ -16,9 +16,7 @@
 # 👩‍💻 Acerca de mi:
 Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi enfoque principal está en ser un todo terreno, y tengo un sólido conocimiento Python. Me encanta utilizar esta tecnología para crear soluciones eficientes y escalables. Además, actualmente estoy dedicando tiempo y esfuerzo en aprender FastApi, un popular framework de python para el desarrollo web. Estoy emocionado por ampliar mis habilidades y aprovechar al máximo las capacidades de Laravel en mis proyectos. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de mejorar y expandir mis conocimientos. Estoy listo para enfrentar desafíos y colaborar en equipos de desarrollo para crear aplicaciones web innovadoras.<br><br>
 
-# 👩‍💻 Estudios:
-- 4geekAcademy
-  
+
 
 - 🌱 Estoy aprendiendo : **FASTAPI**
 
