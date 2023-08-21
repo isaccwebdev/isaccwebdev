@@ -24,7 +24,7 @@ Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi en
 
 - 👨‍💻 Mi pequeño portafolio: [isaccwebdev.online](https://isaccwebdev.online/)
 
-- 📝 Mis apuntes aqui : [Mis apuntes] (https://python-personal-notebook.gitbook.io/python-notebook/)
+- 📝 Mis apuntes aqui : [Mis apuntes](https://python-personal-notebook.gitbook.io/python-notebook/)
 
 - 💬 Estos son los temas de los que controlo: **PYTHON, FLASK, DJANGO, WORDPRESS**
 
