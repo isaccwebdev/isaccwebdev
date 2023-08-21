@@ -18,7 +18,7 @@ Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi en
 
 
 
-- 🌱 Estoy aprendiendo : **FASTAPI**
+- 🌱 Estoy aprendiendo : **FASTAPI** && **IOT**
 
 - 👯 Estoy disponible para: **Backend development**
 
