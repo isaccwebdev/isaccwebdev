@@ -1,50 +1,71 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-<h1 align="center">Hi 👋, Soy Isaac Hernandez</h1>
-<h3 align="center">Un fanatico de python , la automatizacion , los bots y wordpress</h3>
-  
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Backend-Developer&logo=DevTo&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="backend developer logo"  />
-  <img src="https://img.shields.io/static/v1?message=Python Developer&logo=DevTo&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="backend developer logo"  />
-</div>
-
-
-
-# 👩‍💻 Acerca de mi:
-Hola, soy Isacc Danger Hernández, un apasionado desarrollador web junior. Mi enfoque principal está en ser un todo terreno, y tengo un sólido conocimiento Python. Me encanta utilizar esta tecnología para crear soluciones eficientes y escalables. Además, actualmente estoy dedicando tiempo y esfuerzo en aprender FastApi, un popular framework de python para el desarrollo web. Estoy emocionado por ampliar mis habilidades y aprovechar al máximo las capacidades de Laravel en mis proyectos. Soy un apasionado de la programación y siempre estoy buscando nuevas formas de mejorar y expandir mis conocimientos. Estoy listo para enfrentar desafíos y colaborar en equipos de desarrollo para crear aplicaciones web innovadoras.<br><br>
-
-
-- 👨‍💻 Replit- Donde podras encontrar miniproyectos, retos, y ejercicios que hago : [REPLIT](https://replit.com/@isaccwebdev) / [GIST](https://gist.github.com/isaccwebdev)
-  
-- 🌱 Estoy aprendiendo : **FASTAPI**
-
-- 👯 Estoy disponible para: **Backend development**
-
-- 👨‍💻 Mi portafolio: [isaccwebdev.online](https://isaccwebdev.online/)
-
-- 💬 Estos son los temas de los que controlo: **PYTHON, FLASK, DJANGO, WORDPRESS**
-
-- 📫 Mi Email: **dangdev97@gmail.com**
-  
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaccwebdev&show_icons=true&locale=en&layout=compact" alt="isaccwebdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaccwebdev&show_icons=true&locale=en" alt="isaccwebdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaccwebdev&" alt="isaccwebdev" /></p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+# Bienvenido a mi perfil de GitHub 👋
 
+## Sobre mí
 
+Soy un **administrador de servidores** y **programador Python** con una pasión por la tecnología y la automatización. Con varios años de experiencia en la gestión de infraestructuras de TI, mi objetivo es crear soluciones eficientes y seguras para diversos problemas técnicos. Disfruto trabajando en proyectos que involucran la administración de servidores, scripting, y el desarrollo backend.
 
+## Herramientas y Tecnologías
+
+### Lenguajes de Programación:
+- **Python**: Mi lenguaje principal para el desarrollo de scripts y aplicaciones backend.
+- **Bash**: Utilizado para la automatización de tareas en sistemas Unix.
+- **JavaScript**: Empleado en el desarrollo de aplicaciones web.
+- **SQL**: Para la gestión y consulta de bases de datos.
+
+### Sistemas Operativos:
+- **Linux**: Principalmente distribuciones como Ubuntu, Debian y CentOS para la administración de servidores.
+- **Windows Server**: Experiencia en la administración y configuración.
+
+### Herramientas de Desarrollo y Administración:
+- **Docker**: Contenerización de aplicaciones para desarrollo y despliegue.
+- **Ansible**: Automatización de la configuración y gestión de servidores.
+- **Git**: Control de versiones para gestionar el código fuente.
+- **Jenkins**: Integración continua y despliegue continuo (CI/CD).
+- **Nginx y Apache**: Configuración y mantenimiento de servidores web.
+- **MySQL y PostgreSQL**: Administración y optimización de bases de datos.
+
+### Tecnologías en la Nube:
+- **AWS**: Experiencia en servicios como EC2, S3, RDS, y Lambda.
+- **Azure**: Configuración y gestión de servicios en la nube de Microsoft.
+- **DigitalOcean**: Despliegue y mantenimiento de aplicaciones en la nube.
+
+## Proyectos Destacados
+
+### Proyecto 1: Sistema de Monitorización de Servidores
+**Descripción**: Implementación de un sistema de monitorización utilizando Python y Prometheus para recopilar métricas de rendimiento y Grafana para visualizarlas.
+
+**Tecnologías**: Python, Prometheus, Grafana, Docker.
+
+**Repositorio**: [Enlace al repositorio](#)
+
+### Proyecto 2: Automatización de Despliegues con Ansible
+**Descripción**: Creación de scripts de Ansible para la configuración automática de servidores y el despliegue de aplicaciones web.
+
+**Tecnologías**: Ansible, Docker, Nginx, Git.
+
+**Repositorio**: [Enlace al repositorio](#)
+
+### Proyecto 3: API RESTful con Django
+**Descripción**: Desarrollo de una API RESTful utilizando Django y Django REST framework para una aplicación de gestión de inventarios.
+
+**Tecnologías**: Python, Django, Django REST framework, PostgreSQL.
+
+**Repositorio**: [Enlace al repositorio](#)
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=isaccwebdev&show_icons=true&theme=radical)
+
+[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=isaccwebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Conéctate conmigo
+
+- **LinkedIn**: [Tu perfil de LinkedIn](#)
+- **Correo Electrónico**: [tu_correo@example.com](mailto:tu_correo@example.com)
+- **Twitter**: [@tu_usuario](#)
+
+---
