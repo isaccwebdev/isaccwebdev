@@ -6,14 +6,13 @@
 
 ## Sobre mí
 
-Soy un **administrador de servidores** y **programador Python** con una pasión por la tecnología y la automatización. Con varios años de experiencia en la gestión de infraestructuras de TI, mi objetivo es crear soluciones eficientes y seguras para diversos problemas técnicos. Disfruto trabajando en proyectos que involucran la administración de servidores, scripting, y el desarrollo backend.
+Soy un **administrador de servidores** y **programador Python** con una pasión por la tecnología y la automatización. Con varios años de experiencia en la gestión de infraestructuras de TI, mi objetivo es crear soluciones eficientes y seguras para diversos problemas técnicos. Disfruto trabajando en proyectos que involucran la administración de servidores, scripting, y el desarrollo backend. Actualemente me encuentro como DevOps Junior.
 
 ## Herramientas y Tecnologías
 
 ### Lenguajes de Programación:
 - **Python**: Mi lenguaje principal para el desarrollo de scripts y aplicaciones backend.
 - **Bash**: Utilizado para la automatización de tareas en sistemas Unix.
-- **JavaScript**: Empleado en el desarrollo de aplicaciones web.
 - **SQL**: Para la gestión y consulta de bases de datos.
 
 ### Sistemas Operativos:
