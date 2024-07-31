@@ -17,7 +17,7 @@ Soy un **administrador de servidores** y **programador Python** con una pasión 
 - **SQL**: Para la gestión y consulta de bases de datos.
 
 ### Sistemas Operativos:
-- **Linux**: Principalmente distribuciones como Ubuntu, Debian y CentOS para la administración de servidores.
+- **Linux**: Principalmente distribuciones como Ubuntu Server para la administración de servidores.
 - **Windows Server**: Experiencia en la administración y configuración.
 
 ### Herramientas de Desarrollo y Administración:
@@ -30,8 +30,6 @@ Soy un **administrador de servidores** y **programador Python** con una pasión 
 
 ### Tecnologías en la Nube:
 - **AWS**: Experiencia en servicios como EC2, S3, RDS, y Lambda.
-- **Azure**: Configuración y gestión de servicios en la nube de Microsoft.
-- **DigitalOcean**: Despliegue y mantenimiento de aplicaciones en la nube.
 
 ## Proyectos Destacados
 
