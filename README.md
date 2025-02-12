@@ -30,29 +30,6 @@ Soy un **administrador de servidores** y **programador Python** con una pasión 
 ### Tecnologías en la Nube:
 - **AWS**: Experiencia en servicios como EC2, S3, RDS, y Lambda.
 
-## Proyectos Destacados
-
-### Proyecto 1: Sistema de Monitorización de Servidores
-**Descripción**: Implementación de un sistema de monitorización utilizando Python y Prometheus para recopilar métricas de rendimiento y Grafana para visualizarlas.
-
-**Tecnologías**: Python, Prometheus, Grafana, Docker.
-
-**Repositorio**: [Enlace al repositorio](#)
-
-### Proyecto 2: Automatización de Despliegues con Ansible
-**Descripción**: Creación de scripts de Ansible para la configuración automática de servidores y el despliegue de aplicaciones web.
-
-**Tecnologías**: Ansible, Docker, Nginx, Git.
-
-**Repositorio**: [Enlace al repositorio](#)
-
-### Proyecto 3: API RESTful con Django
-**Descripción**: Desarrollo de una API RESTful utilizando Django y Django REST framework para una aplicación de gestión de inventarios.
-
-**Tecnologías**: Python, Django, Django REST framework, PostgreSQL.
-
-**Repositorio**: [Enlace al repositorio](#)
-
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=isaccwebdev&show_icons=true&theme=radical)
@@ -64,5 +41,5 @@ Soy un **administrador de servidores** y **programador Python** con una pasión 
 - **LinkedIn**: [Tu perfil de LinkedIn](#)
 - **Correo Electrónico**: [tu_correo@example.com](mailto:tu_correo@example.com)
 - **Twitter**: [@tu_usuario](#)
-
+- **Github GIST**: [Isaccwebdev](https://gist.github.com/isaccwebdev)
 ---
