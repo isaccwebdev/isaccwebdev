@@ -3,7 +3,7 @@
 ---
 
 # Bienvenido a mi perfil de GitHub 👋
-Si quieres ver directamente mis proyectos de maner organizada pincha aqui [Index](https://isaccwebdev.github.io/indexprojects.github.io/)
+Si quieres ver directamente mis proyectos de manera organizada pincha aqui [Index](https://isaccwebdev.github.io/indexprojects.github.io/)
 
 ## Sobre mí
 
