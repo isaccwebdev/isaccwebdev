@@ -3,8 +3,16 @@
 ---
 
 # Bienvenido a mi perfil de GitHub 👋
-Si quieres ver directamente mis proyectos de manera organizada pincha aqui [Index](https://isaccwebdev.github.io/indexprojects.github.io/)
-Mis avances en el campo de DevOps: [Pincha Aqui](https://isaacs-web-dev.gitbook.io/isaacs-docs/)
+- Si quieres ver directamente mis proyectos de manera organizada pincha aqui [Index](https://isaccwebdev.github.io/indexprojects.github.io/)
+- Mis avances en el campo de DevOps: [Pincha Aqui](https://isaacs-web-dev.gitbook.io/isaacs-docs/)
+
+## Conéctate conmigo
+
+- **LinkedIn**: [Tu perfil de LinkedIn](#)
+- **Correo Electrónico**: [tu_correo@example.com](mailto:tu_correo@example.com)
+- **Twitter**: [@tu_usuario](#)
+- **Github GIST**: [Isaccwebdev](https://gist.github.com/isaccwebdev)
+---
 
 ## Sobre mí
 
@@ -38,10 +46,3 @@ Soy un **administrador de servidores** y **programador Python** con una pasión 
 
 [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=isaccwebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Conéctate conmigo
-
-- **LinkedIn**: [Tu perfil de LinkedIn](#)
-- **Correo Electrónico**: [tu_correo@example.com](mailto:tu_correo@example.com)
-- **Twitter**: [@tu_usuario](#)
-- **Github GIST**: [Isaccwebdev](https://gist.github.com/isaccwebdev)
----
