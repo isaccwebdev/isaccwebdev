@@ -16,95 +16,81 @@
 - **Twitter**: [@tu_usuario](#)
 - **Github GIST**: [Isaccwebdev](https://gist.github.com/isaccwebdev)
 ---
+```python
+class Usuario:
+    def __init__(self):
+        self.nombre = "Isacc Hernandez"
+        self.ubicacion = "España"
+        self.puesto_actual = "SysAdmin & Python Dev"
+        self.roles = "DBA, SysAdmin, DevOps, BackEnd"
+        self.experiencia = {
+            "años_experiencia": "2+",
+            "enfoque": [
+                "Automatización de tareas",
+                "Administración de infraestructuras TI",
+                "Desarrollo Backend",
+                "Scripting",
+                "DevOps"
+            ],
+            "actualmente": "DevOps Junior",
+            "intereses": [
+                "Automatización",
+                "Tendencias tecnológicas",
+            ]
+        }
 
-## Sobre mí
+        self.lenguajes_programacion = ["Python", "Bash", "SQL", "Go", "EcmaScript"]
 
-Soy un **administrador de servidores** y **programador Python** con una pasión por la tecnología y la automatización. Con varios años de experiencia en la gestión de infraestructuras de TI, mi objetivo es crear soluciones eficientes y seguras para diversos problemas técnicos. Disfruto trabajando en proyectos que involucran la administración de servidores, scripting, y el desarrollo backend. Actualemente me encuentro como DevOps Junior.
+        self.sistemas_operativos = {
+            "Linux": ["Ubuntu Server", "Red Hat"],
+            "Windows Server": True
+        }
 
-## 🛠 Herramientas y Tecnologías
+        self.frontend = {
+            "JavaScript Frameworks": ["React"],
+            "CSS Frameworks": ["Tailwind"],
+            "UI Libraries": ["Material UI"]
+        }
 
-### Lenguajes de Programación:
-- **Python**: Mi lenguaje principal para el desarrollo de scripts y aplicaciones backend.
-- **Bash**: Utilizado para la automatización de tareas en sistemas Unix.
-- **SQL**: Para la gestión y consulta de bases de datos.
+        self.backend = {
+            "JavaScript": ["Node", "Express"],
+            "Python": ["Flask", "Django"]
+        }
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-</div>
+        self.mobile = {
+            "CrossPlatform": []
+        }
 
-### Sistemas Operativos:
-- **Linux**: Principalmente distribuciones como Ubuntu Server, y distros como Red Hat para la administración de servidores.
-- **Windows Server**: Experiencia en la administración y configuración.
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-</div>
+        self.devops = {
+            "Herramientas": ["Docker", "CI/CD", "GitHub Actions", "Ansible", "Jenkins", "Terraform"],
+            "WebServers": ["Nginx", "Apache"],
+            "Orquestadores": ["Kubernetes"],
+            "Monitoreo": ["Grafana", "Prometheus"],
+            "Mensajería/Streaming": ["Apache Kafka"]
+        }
 
-### Herramientas de Desarrollo y Administración:
-- **Docker**: Contenerización de aplicaciones para desarrollo y despliegue.
-- **Ansible**: Automatización de la configuración y gestión de servidores.
-- **Git**: Control de versiones para gestionar el código fuente.
-- **Jenkins**: Integración continua y despliegue continuo (CI/CD).
-- **Nginx y Apache**: Configuración y mantenimiento de servidores web.
-- **MySQL y PostgreSQL**: Administración y optimización de bases de datos.
+        self.cloud = {
+            "AWS": ["Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+            "Azure": True,
+            "GCP": True
+        }
 
-<div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-</div>
+        self.bases_datos = ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Firebase Realtime DB", "redis", "SQLserver"]
 
-</div>
+        self.misc = {
+            "Tecnologías": ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions", "Vectorization"],
+            "Versionado": ["Git", "GitHub","GitLaB"],
+          
+        }
 
-### Tecnologías en la Nube:
-- **AWS**: Experiencia en servicios como EC2, S3, RDS y Lambda
-- **AZURE**
-- **GCP**
+    def __str__(self):
+        return f"Perfil profesional de {self.nombre} ({self.puesto_actual}) ubicado en {self.ubicacion}"
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
+isaccwebdev = Usuario()
+print(isaccwebdev)
+
+```
+
 
 ## Estadísticas de GitHub
 
