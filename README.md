@@ -1,9 +1,7 @@
 
 
 ---
-<div align="center">
-  ![Header](./github-header-image.png)
-</div>
+![Header](./github-header-image.png)
 
 # 👋 Bienvenido a mi perfil de GitHub 
 - Si quieres ver directamente mis proyectos de manera organizada pincha aqui [INDEX](https://isaccwebdev.github.io/indexprojects/)
