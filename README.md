@@ -1,12 +1,16 @@
 
 
 ---
-<div></div>
-![Header](./github-header-image.png)
+<div align="center">
+  ![Header](./github-header-image.png)
+</div>
+
 # 👋 Bienvenido a mi perfil de GitHub 
 - Si quieres ver directamente mis proyectos de manera organizada pincha aqui [INDEX](https://isaccwebdev.github.io/indexprojects/)
 - Mis avances en el campo de DevOps: [Pincha Aqui](https://isaacs-web-dev.gitbook.io/isaacs-docs/)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/isaccwebdev/github-profile-trophy)
+
 ## Conéctate conmigo
 
 - **LinkedIn**: [Tu perfil de LinkedIn](#)
