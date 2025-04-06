@@ -1,20 +1,19 @@
 
-
+👋 Bienvenido al Github de IsaccWebDev
 ---
+
+ 
 ![Header](./github-header-image.png)
 
-# 👋 Bienvenido a mi perfil de GitHub 
-- Si quieres ver directamente mis proyectos de manera organizada pincha aqui [INDEX](https://isaccwebdev.github.io/indexprojects/)
-- Mis avances en el campo de DevOps: [Pincha Aqui](https://isaacs-web-dev.gitbook.io/isaacs-docs/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/isaccwebdev/github-profile-trophy)
 
 ## Conéctate conmigo
 
-- **LinkedIn**: [Tu perfil de LinkedIn](#)
-- **Correo Electrónico**: [tu_correo@example.com](mailto:tu_correo@example.com)
-- **Twitter**: [@tu_usuario](#)
-- **Github GIST**: [Isaccwebdev](https://gist.github.com/isaccwebdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangdev97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gist](https://img.shields.io/badge/gist-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/isaccwebdev)
+
 ---
 ```python
 class Usuario:
@@ -98,6 +97,8 @@ print(isaccwebdev)
 
 [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=isaccwebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Gists 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f4bfd41ffd30bdeaf94ac6428c248949)](https://gist.github.com/isaccwebdev/f4bfd41ffd30bdeaf94ac6428c248949/)
 
 
   
